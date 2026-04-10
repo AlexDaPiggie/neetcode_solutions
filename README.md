@@ -1,13 +1,4 @@
-SOME TOPICS COVERED ARE:
-
-1/ ARRAYS AND HASHING
-
-2/ SLIDING WINDOW
-
-3/ TWO POINTERS
-
-4/ BINARY SEARCH
-
-LINK OF THE ORIGINIAL EXCERCISES: https://neetcode.io/roadmap
-
-MANY ALGORITHMS AND SOLUTIONS ARE LEARNED FROM VIDEOS IN THIS YOUTUBE CHANNEL: https://www.youtube.com/@NeetCode
+My solutions for Leetcode problems. 
+Objective: Cultivating abilities in Data Structures and Algorithms
+Programming Language: Python
+Questions are taken from Neetcode roadmap: https://neetcode.io/roadmap 
